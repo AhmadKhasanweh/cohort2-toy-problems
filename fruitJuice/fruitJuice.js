@@ -19,7 +19,7 @@ of banana juice is only 0.25 (300 units apple juice + 100 units banana juice)
 
 Complete the functions in order to provide this functionality.
 */
-
+ 
 /*
 These are some tests:
 var jar = new Jar();
