@@ -1,4 +1,4 @@
-/**
+ /**
  * Given a single input string, write a function that outputs an array of strings with every possible
  * combination of letters.
  *
