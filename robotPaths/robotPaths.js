@@ -23,7 +23,7 @@ var makeBoard = function(n) {
   }
   
   board.togglePiece = function(i, j) {
-    this[i][j] = !this[i][j];
+    this[i][j] = !this[i][j]; 
   }
   board.hasBeenVisited = function(i, j) {
     return !!this[i][j];
