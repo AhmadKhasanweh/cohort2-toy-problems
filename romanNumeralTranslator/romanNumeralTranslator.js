@@ -16,7 +16,7 @@
  * You should return `null` on invalid input.
  */
 
-var translateRomanNumeral = function (romanNumeral) {
+var translateRomanNumeral = function(romanNumeral){
 	var DIGIT_VALUES = {
 	  I: 1,
 	  V: 5,
@@ -43,4 +43,5 @@ var translateRomanNumeral = function (romanNumeral) {
     }else{
     	return null;
     }
+
 }
